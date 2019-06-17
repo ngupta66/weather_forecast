@@ -20,4 +20,4 @@ Raw data from Kaggle website is cleaned and wrangled and stored is Data director
 - /results - Results of both univar_models and multi_var models are stored here.
 
 
-**[Back to top](#table-of-contents)**
+
